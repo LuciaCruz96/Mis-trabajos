@@ -1,0 +1,15 @@
+li{
+    color: aqua;
+
+}
+/*Selector de id*/
+#titulo{
+    color: blueviolet;
+}
+/*Selector universal*/
+*{
+    color: crimson;
+}
+.pGreen{
+    color: darkgreen;
+}
